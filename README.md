@@ -11,3 +11,5 @@
 ![screencapture-127-0-0-1-5500-project5-index-html-2024-09-27-00_56_07](https://github.com/user-attachments/assets/5aa80699-76e0-4392-9b3d-7e415e0f4ec1)
 ## Project - 6
 ![screencapture-127-0-0-1-5500-project6-index-html-2024-09-27-00_57_42](https://github.com/user-attachments/assets/b3ddffdf-e0e1-45cc-9583-3f2c1b2c96d3)
+## Project - 7
+![screencapture-127-0-0-1-5500-project7-index-html-2024-09-27-00_58_15](https://github.com/user-attachments/assets/78a8292f-843d-4f56-ad48-1671a6ddaefb)
